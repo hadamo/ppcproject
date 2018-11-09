@@ -1,5 +1,5 @@
 # PPC: Choice
-## O que é o projeto PPC: Choice ?
+## O que é o projeto PPC: Choice :smiley: ?
 * É um projeto que visa desenvolver um site, onde seja possível visualizar se a mudança de currículo de curso será benéfica para o aluno ou se é melhor continuar no currículo antigo.
 ## Quem é o publico alvo ?
 * Atualmente, são os alunos dos cursos de ciência e engenharia da computação da Universidade Federal do Espírito Santo, campus São Mateus - ES.
